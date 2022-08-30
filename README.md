@@ -18,3 +18,6 @@ Esse projeto foi proposto e auxiliado pelo instrutor Jorge Sant Ana.
 <p> 
 O projeto não é responsivo, recomendo usar um monitor!!!
 </p>
+
+<h3 align="left"> <strong>Git page</strong> </h3>
+https://josluc.github.io/jogo-mata-mosquito/
